@@ -1,3 +1,9 @@
 .header {
   box-sizing: border-box; 
 }
+
+.sub {
+  padding-top: 12px;
+  color: #333;
+  font-size: 12px;
+}
