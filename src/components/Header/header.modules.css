@@ -1,5 +1,9 @@
 .header {
-  box-sizing: border-box; 
+  box-sizing: border-box;
+  line-height: 1.4rem;
+
+  padding-top: 36px;
+  margin-bottom: -36px;
 }
 
 .sub {

@@ -9,8 +9,6 @@ export function App() {
       <Header />
       <Scene />
       <Footer />
-
-      <div className="background"></div>
     </div>
   )
 }
