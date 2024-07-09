@@ -51,6 +51,8 @@ export const Scene = () => {
 
     setIsInit(true)
 
+    console.log(ioIndex)
+
     return () => {
       io.disconnect()
     }
